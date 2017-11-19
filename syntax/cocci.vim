@@ -38,4 +38,7 @@ hi def link CocciOperator       Operator
 
 let b:current_syntax = "cocci"
 
+set commentstring=//%s
+set ts=2 sw=2 et
+
 " vim: set et ts=4 :
